@@ -1,6 +1,6 @@
 window.onload = async function () {
 
-  const OPENAI_API_KEY = '';
+  const OPENAI_API_KEY = 'INSERT YOUR API KEY HERE';
   class UI {
     constructor(chatAssistant) {
       this.chatAssistant = chatAssistant;
